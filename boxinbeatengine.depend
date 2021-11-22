@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1637550605 source:/home/judeu/boxinbeatengine/draw.cpp
+	"raylib.h"
+	"song.h"
+	"main.h"
+	<stdio.h>
+
+1637542807 /home/judeu/boxinbeatengine/song.h
+
+1637543135 /home/judeu/boxinbeatengine/main.h
+
+1637590736 source:/home/judeu/boxinbeatengine/main.cpp
+	"raylib.h"
+	"song.h"
+	"draw.h"
+	"chart.h"
+	<iostream>
+
+1637550671 /home/judeu/boxinbeatengine/draw.h
+
+1637590148 /home/judeu/boxinbeatengine/chart.h
+
