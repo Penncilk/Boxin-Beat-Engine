@@ -40,7 +40,7 @@ int main(void)
     InitWindow(screenWidth, screenHeight, "Boxin' Beat");
     InitAudioDevice();
     //Chooses our song
-    Music song = LoadMusicStream("./music/GenorationBox.wav");
+    Music song = LoadMusicStream("./music/GenorationBox.ogg");
     PlayMusicStream(song);
 
     SetTargetFPS(60);               // Set our game to run at 60
