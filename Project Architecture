@@ -1,0 +1,4 @@
+The source files outside of gameplay will work as the menu
+It will run game.cpp like a function, loading stuff like charts and music.
+
+I am not sure where I will set up mod stuff, I will think of that later
